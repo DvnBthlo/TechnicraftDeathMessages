@@ -1,3 +1,4 @@
 ### Hladova zombie prave okusuje ostatky hrace %player%.
 ### Hrac %player% se stal obedem pro nemrtve zombie.
 ### Hrac %player% se stal zombii.
+### Hrac %player% nakrmil zombie, svym telem.
